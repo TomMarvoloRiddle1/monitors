@@ -8,3 +8,7 @@ ie:
 104.450.12.79:8000:admin:user
 104.450.12.80:8000:admin:user
 FORMAT MUST BE LIKE THIS INCLUDING AUTH (will not work with ip:port only)
+
+also works with a discord webhook
+set via .env
+webhook="<WEBHOOK HERE, NO ARROWS>"
